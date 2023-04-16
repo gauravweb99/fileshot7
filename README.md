@@ -1,14 +1,14 @@
-## @Tentkotta_bot
+## @rose_movies_ak_bot
 
-## Render info
+## heroku info
 
 Login mail- 
 ``` 
-pkexfvcts@bugfoo.com
+
 ```
 Login pass- 
 ```
-pkexfvcts
+
 ```
 
 ## Vps Cmd -----------
@@ -27,8 +27,8 @@ python main.py
 ```
 ### Admin info and pay
 
-tm- @Smlovers_143
+tm- @Baby8787
 
-next pay- 07-03-23
+next pay- 11-03-23
 
 fees- 150
