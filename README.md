@@ -1,15 +1,6 @@
 ## @rose_movies_ak_bot
 
-## heroku info
-
-Login mail- 
-``` 
-
-```
-Login pass- 
-```
-
-```
+## heroku server
 
 ## Vps Cmd -----------
 
